@@ -1,0 +1,5 @@
+{
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/Users/62877/OneDrive/Documents/Tugas Pemrograman Sistem Mobile/Tugas Praktikum 7/tokokita/windows/flutter"
+}
